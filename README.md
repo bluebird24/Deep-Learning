@@ -1,2 +1,2 @@
 # Deep-Learning
-Deep learning practice notebooks
+This repo contains all the Deep learning practice notebooks for future references of the DL concepts
